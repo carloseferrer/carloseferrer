@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Ferrer</h1>
-<h3 align="center">A passionate full stack developver from Venezuela</h3>
+<h3 align="center">A passionate software engineering student from Venezuela</h3>
+<h3 align="center">Welcome to my repository/h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
